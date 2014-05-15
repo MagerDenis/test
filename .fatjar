@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jul 09 14:58:29 PDT 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=zenfolio_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Zenfolio.ALL_Paid_users
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|WebDriver>~Zenfolio/
+includes=
